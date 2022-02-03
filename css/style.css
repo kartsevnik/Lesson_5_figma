@@ -48,7 +48,7 @@ p:last-child {
 }
 
 .main-three {
-    margin: 0 0 48px 0;
+    margin: 0 0 48px 58px;
 }
 
 .text__bold {
@@ -58,4 +58,7 @@ p:last-child {
     line-height: 30px;
     letter-spacing: 0em;
     text-align: left;
+}
+.list {
+    margin: 0 0 0 32px;
 }
